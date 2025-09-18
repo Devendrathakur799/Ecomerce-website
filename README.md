@@ -37,18 +37,31 @@ It supports user authentication, product listings, cart management, and order ch
 
 Ecommerce-Website/
 ├── backend/
+
 │ ├── config/
+
 │ ├── controllers/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── server.js
+
 │ └── package.json
+
 ├── frontend/
+
 │ ├── src/
+
 │ ├── public/
+
 │ └── package.json
+
 ├── .env
+
 └── README.md
+
 
 
 
@@ -73,3 +86,4 @@ cd frontend
 npm install
 npm run dev
 ```
+
