@@ -36,6 +36,7 @@ It supports user authentication, product listings, cart management, and order ch
 ## Project Structure
 
 Ecommerce-Website/
+
 ├── backend/
 
 │ ├── config/
@@ -86,4 +87,5 @@ cd frontend
 npm install
 npm run dev
 ```
+
 
